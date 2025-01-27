@@ -101,7 +101,6 @@ body {
 }
 
 .logo {
-  margin-right: 76px;
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -109,8 +108,8 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
-  margin-bottom: 16px;
   display: inline-block;
+  margin-right: 76px;
 }
 
 .logo-part {
@@ -492,6 +491,10 @@ body {
 
 .container-footer {
   margin-right: 120px;
+}
+
+.footer-link {
+  margin-bottom: 16px;
 }
 
 .social-logo {
